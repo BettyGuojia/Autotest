@@ -1,3 +1,4 @@
 dasdaasdad
 sdfa  mergedemo
-这是master上添加的内容
+这是mergedemo和master添加的内容
+all合并后
